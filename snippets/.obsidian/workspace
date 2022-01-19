@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "89280fba8ba275db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2229d4d78d2957",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/Version Compatibility.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ed1cee91c773c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f40c9947b997c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0baa723202ba5829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa059a001e40420f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43fccaf3248c92c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe16c109aa5a82a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed3d20381c81c26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/Version Compatibility.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a2229d4d78d2957",
+  "lastOpenFiles": [
+    "python/Version Compatibility.md",
+    "GH Actions.md",
+    "python/tools/Pytest.md",
+    "python/tools/Coveralls.md",
+    "python/tools/Travis.md",
+    "python/tools/ReadtheDocs.md",
+    "python/New Package Boilerplate.md",
+    "python/tools/Sphinx.md",
+    "mediawiki/upload.md",
+    "ffmpeg/basics.md"
+  ]
+}
