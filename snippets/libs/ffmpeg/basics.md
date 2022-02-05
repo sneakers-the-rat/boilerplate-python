@@ -23,3 +23,16 @@ Preserve aspect ratio by constraining height to `720px` and using `-1` for width
 
 using the `-r` flag takes place after all filtering, but before encoding
 `-r 30`
+
+
+## Convert a directory
+
+using [[shell#^cd49dd | loops]]
+
+replacing the extnesion
+```
+for i in *.avi;
+do 
+  ffmpeg -i "$i" "${i%.*}.mp4";
+done
+```

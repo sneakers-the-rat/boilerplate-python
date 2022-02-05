@@ -25,7 +25,7 @@ def download(url:str, file_name:typing.Union[Path,str]) -> bool:
         response = requests.get(url, stream=True)
         size = int(response.headers.get('content-length', 0))
         with open(file_name, 'wb') as ofile, tqdm(
-                    desc=file_name,
+                    desc=str(file_name),
                     total=size,
                     unit='iB',
                     unit_scale=True,
