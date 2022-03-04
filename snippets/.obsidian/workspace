@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "abcb5fd51e19bfd2",
+        "id": "cd96072660e919ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "libs/rsync.md",
+            "file": "mediawiki/upload.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rsync",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libs/rsync.md",
+                "file": "mediawiki/upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abcb5fd51e19bfd2",
+  "active": "cd96072660e919ab",
   "lastOpenFiles": [
-    "libs/rsync.md",
-    "mac/time machine.md",
-    "libs/git.md",
-    "libs/chmod.md",
-    "latex/interoperability.md",
+    "mediawiki/upload.md",
+    "mediawiki/php.md",
+    "python/pip.md",
+    "libs/git/git.md",
     "latex/packages.md",
     "latex/Untitled.md",
-    "editors/sublime text.md",
-    "python/shell.md",
-    "python/scraping.md"
+    "latex/interoperability.md",
+    "javascript/debugging (javascript).md",
+    "concepts/debugging.md",
+    "libs/git/git directory.md"
   ]
 }
