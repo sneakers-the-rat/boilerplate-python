@@ -20,4 +20,10 @@ Create a new user and add to primary group `users` and other groups
 ### Show members of a group
 ```getent group <groupname>```
 
+## File/Directory Permissions
+* Change owner
+`chown`
+
+
+
 

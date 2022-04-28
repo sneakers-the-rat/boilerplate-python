@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd8bf8466fcb684",
+        "id": "ca202e7ad3b1660a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "libs/git/commit.md",
+            "file": "mac/Startup Commands.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "creden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403
+    "width": 244
   },
   "right": {
     "id": "43fccaf3248c92c2",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libs/git/commit.md",
+                "file": "mac/Startup Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fd8bf8466fcb684",
+  "active": "ca202e7ad3b1660a",
   "lastOpenFiles": [
-    "libs/git/commit.md",
+    "mac/Startup Commands.md",
+    "mac/macos debugging.md",
     "libs/git/git.md",
-    "libs/git/branch.md",
-    "libs/git/git directory.md",
-    "libs/git/hooks.md",
-    "libs/git/git tag.md",
-    "mediawiki/wiki conversion.md",
-    "Untitled 1.md",
-    "linux/Permissions.md",
-    "mediawiki/mediawiki.md"
+    "libs/netatalk.md",
+    "linux/Configuration.md",
+    "mac/time machine.md",
+    "SSH.md",
+    "raspi/config.md",
+    "libs/qbittorrent.md",
+    "linux/Permissions.md"
   ]
 }

@@ -30,9 +30,14 @@ nano ~/.gitignore
 git config --global core.excludesfile ~/.gitignore
 ```
 
-## Securely save credentials
-[[TODO]]
+## Save credentials
+### Insecurely
+`git config --global credential.helper store`
 
+### Securely
+Use [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager)
+
+* *
 
 
 
