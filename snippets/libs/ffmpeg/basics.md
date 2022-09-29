@@ -5,6 +5,8 @@ To speed up 4x
 ``` -filter:v "setpts=0.25*PTS"```
 To slow down 4x
 ``` -filter:v "setpts=4*PTS"```
+With audio
+`-filter:a "atempo=2.0"`
 
 ### Smoothing
 ```-filter:v "minterpolate='mi_mode=mci:mc_mode=aobmc:vsbmc=1:fps=120'"```
@@ -35,4 +37,12 @@ for i in *.avi;
 do 
   ffmpeg -i "$i" "${i%.*}.mp4";
 done
+```
+
+
+## Formats
+### Raw
+
+```bash
+ffmpeg -i <video> -c:v rawvideo output.avi
 ```

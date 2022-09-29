@@ -42,7 +42,7 @@ GRANT ALL PRIVILEGES ON wikidb.* TO 'wikiuser'@'localhost' WITH GRANT OPTION;
 
 ## Configure [[SSH]] with [[apache2]]
 [Apache2 Guide](https://www.arubacloud.com/tutorial/how-to-enable-https-protocol-with-apache-2-on-ubuntu-20-04.aspx)
-* acme.sh issue certs*
+* [[acme.sh]] issue certs*
 * acme.sh install certs to a different location
 * edit `/etc/apache2/sites-available/default-ssl.conf`
 * (where are the freaking .conf files)

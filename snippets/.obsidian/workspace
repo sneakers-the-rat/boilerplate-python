@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ca202e7ad3b1660a",
+        "id": "6c696eb1c128b5cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac/Startup Commands.md",
+            "file": "home server/gitea.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "creden",
+                "query": "acme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 287.5
   },
   "right": {
     "id": "43fccaf3248c92c2",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mac/Startup Commands.md",
+                "file": "home server/gitea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca202e7ad3b1660a",
+  "active": "6c696eb1c128b5cf",
   "lastOpenFiles": [
-    "mac/Startup Commands.md",
-    "mac/macos debugging.md",
+    "acme.sh.md",
+    "home server/gitea.md",
+    "nginx.md",
+    "Unattended Upgrades.md",
+    "home server/server basic config.md",
+    "RSA.md",
+    "libs/rsync.md",
+    "libs/exiftool.md",
     "libs/git/git.md",
-    "libs/netatalk.md",
-    "linux/Configuration.md",
-    "mac/time machine.md",
-    "SSH.md",
-    "raspi/config.md",
-    "libs/qbittorrent.md",
-    "linux/Permissions.md"
+    "libs/wget.md"
   ]
 }
