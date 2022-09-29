@@ -1,2 +1,3 @@
-# boilerplate-python
-jonny's just starting to collect some boilerplate functions here nbd
+# snippets
+
+notes and code snippets on programming and assorted computer-related things.
